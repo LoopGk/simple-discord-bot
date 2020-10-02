@@ -1,6 +1,5 @@
 import os
 import math
-from random import choice
 
 import discord
 from discord.ext import commands
